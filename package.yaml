@@ -28,7 +28,7 @@ library:
   - text
 
 executables:
-  Datomos-exe:
+  dmo:
     main:                Main.hs
     source-dirs:         app
     ghc-options:

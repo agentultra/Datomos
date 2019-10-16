@@ -1,4 +1,6 @@
 module Main where
 
+import Datomos.Repl
+
 main :: IO ()
-main = putStrLn "Hello, world!"
+main = repl
